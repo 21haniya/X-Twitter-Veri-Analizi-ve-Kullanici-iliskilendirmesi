@@ -1,0 +1,340 @@
+Tüm kullanýcýlarýn en yüksek frekanslý kelimeleri (stopwords çýkarýldý):
+ad: 10
+hayat: 9
+yer: 8
+devlet: 8
+savaþ: 8
+tür: 7
+eser: 7
+kendi: 7
+dur: 7
+baþ: 7
+bölge: 6
+yýl: 6
+tarih: 6
+taþ: 6
+sonuç: 6
+el: 6
+hareket: 6
+görev: 5
+gün: 5
+alp: 5
+ay: 5
+al: 5
+ligi: 5
+olay: 5
+iç: 4
+su: 4
+bul: 4
+parça: 4
+gel: 4
+toprak: 4
+
+ad,10
+burcu06,2
+atakan.kocoglu,1
+eakay,1
+xkunter,2
+solmaz.derin,3
+ali.alpugan,1
+ipolat,2
+hozgorkey,2
+gumuspala.sinem,1
+hayat,9
+burcu06,3
+eakay,5
+xkunter,1
+solmaz.derin,1
+nabadan,1
+ipolat,1
+yer,8
+burcu06,4
+atakan.kocoglu,1
+eakay,6
+xkunter,2
+solmaz.derin,2
+ali.alpugan,2
+nabadan,1
+ipolat,1
+gumuspala.sinem,4
+devlet,8
+burcu06,1
+atakan.kocoglu,3
+eakay,1
+xkunter,1
+solmaz.derin,2
+ali.alpugan,1
+nabadan,2
+hozgorkey,1
+savaþ,8
+atakan.kocoglu,3
+eakay,2
+xkunter,2
+solmaz.derin,2
+nabadan,2
+ipolat,2
+hozgorkey,1
+tür,7
+burcu06,3
+atakan.kocoglu,2
+xkunter,2
+nabadan,1
+hozgorkey,2
+gumuspala.sinem,2
+eser,7
+burcu06,1
+atakan.kocoglu,2
+eakay,1
+ali.alpugan,3
+nabadan,1
+ipolat,1
+hozgorkey,2
+gumuspala.sinem,1
+kendi,7
+burcu06,1
+atakan.kocoglu,1
+eakay,2
+solmaz.derin,1
+nabadan,1
+dur,7
+eakay,2
+xkunter,1
+solmaz.derin,3
+ali.alpugan,1
+nabadan,1
+ipolat,1
+hozgorkey,1
+gumuspala.sinem,3
+baþ,7
+eakay,1
+solmaz.derin,3
+ali.alpugan,1
+nabadan,2
+gumuspala.sinem,1
+bölge,6
+burcu06,1
+eakay,2
+xkunter,1
+nabadan,1
+ipolat,1
+hozgorkey,1
+gumuspala.sinem,1
+yýl,6
+burcu06,4
+xkunter,1
+solmaz.derin,3
+ali.alpugan,2
+nabadan,3
+ipolat,1
+gumuspala.sinem,1
+tarih,6
+burcu06,2
+atakan.kocoglu,2
+eakay,1
+xkunter,1
+ali.alpugan,2
+nabadan,1
+ipolat,1
+taþ,6
+burcu06,1
+solmaz.derin,2
+ali.alpugan,1
+ipolat,2
+gumuspala.sinem,1
+sonuç,6
+atakan.kocoglu,1
+eakay,1
+xkunter,1
+solmaz.derin,1
+nabadan,1
+ipolat,2
+hozgorkey,1
+el,6
+eakay,2
+xkunter,1
+solmaz.derin,2
+ali.alpugan,1
+hozgorkey,1
+hareket,6
+eakay,1
+solmaz.derin,3
+nabadan,1
+gumuspala.sinem,1
+görev,5
+burcu06,1
+atakan.kocoglu,2
+eakay,2
+xkunter,2
+solmaz.derin,2
+ipolat,1
+gumuspala.sinem,1
+gün,5
+burcu06,2
+atakan.kocoglu,3
+eakay,2
+solmaz.derin,1
+ali.alpugan,1
+nabadan,2
+hozgorkey,2
+alp,5
+burcu06,1
+atakan.kocoglu,2
+nabadan,2
+gumuspala.sinem,1
+ay,5
+atakan.kocoglu,2
+xkunter,1
+nabadan,1
+al,5
+burcu06,3
+atakan.kocoglu,2
+eakay,4
+xkunter,1
+solmaz.derin,4
+ali.alpugan,2
+nabadan,3
+ipolat,1
+hozgorkey,4
+ligi,5
+eakay,1
+xkunter,1
+hozgorkey,2
+olay,5
+ali.alpugan,1
+nabadan,2
+iç,4
+burcu06,2
+atakan.kocoglu,7
+eakay,1
+xkunter,5
+solmaz.derin,6
+ali.alpugan,3
+nabadan,3
+ipolat,4
+hozgorkey,8
+gumuspala.sinem,5
+su,4
+burcu06,2
+atakan.kocoglu,1
+gumuspala.sinem,1
+bul,4
+burcu06,1
+eakay,1
+xkunter,1
+ipolat,1
+hozgorkey,1
+parça,4
+burcu06,1
+atakan.kocoglu,1
+xkunter,1
+nabadan,2
+gumuspala.sinem,1
+gel,4
+burcu06,1
+atakan.kocoglu,1
+eakay,3
+ali.alpugan,1
+toprak,4
+burcu06,1
+atakan.kocoglu,1
+ali.alpugan,1
+nabadan,1
+hozgorkey,1
+
+burcu06's top 10 nouns:
+tür: 3
+yýl: 3
+hayat: 3
+yer: 2
+gün: 2
+iç: 2
+birbir: 2
+su: 2
+var: 2
+ara: 2
+
+eakay's top 10 nouns:
+al: 3
+yer: 3
+gel: 3
+takým: 3
+hayat: 3
+ligi: 2
+gün: 2
+savaþ: 2
+yay: 2
+türk: 2
+
+Ortak Ýlgi Alanlarý:
+hayat
+gün
+yer
+
+Toplam Ortak Ýlgi Alan Sayýsý: 3
+Ýlgi alaný benzerlik yüzdesi= %30.0
+
+Followers of burcu06: ['berkay36', 'sinem.bolatli', 'ege.alpugan', 'ebeserler', 'pbakircioglu', 'barbarosoglu.irem', 'mertoglu.ece', 'rabaci', 'eronat.armagan', 'zkurutluoglu', 'esma65', 'kunter.ruya', 'koray36', 'samanci.barlas', 'iatan', 'cihan73', 'burcu.capanoglu', 'cihan61', 'oakyurek', 'agaoglu.ruya', 'ckilicci', 'jerberk', 'zkorol', 'balaban.esma', 'daghan98', 'akal.emir', 'ferid.bolatli', 'askin.gonultas', 'esma64', 'polat.turkdogan', 'alniacik.ada', 'nerkekli', 'onur95', 'oakar', 'hsozeri', 'onur.koyuncu', 'utku.erdogan', 'kulaksizoglu.deniz', 'ebru.ayverdi', 'abaci.ruya', 'sahnur.toraman', 'kagan15', 'beserler.esma', 'eksioglu.turker', 'irem.erbay', 'tutuncu.ada', 'eksioglu.esma', 'isinanoglu', 'kerem46', 'kagan.tekelioglu', 'ruya.dogan', 'esma.daglaroglu', 'yaydan', 'sahnur.tunceri', 'baran97', 'demirbas.ruya', 'ozkok.emel', 'asikoglu.cihan', 'kerem.pekkan', 'irem25', 'berk.akan', 'cihan67', 'gokturk.toraman', 'emel.ozgorkey', 'elicin.ruya', 'vkaraer', 'mert.akman', 'ruya.erbulak', 'topaloglu.ege', 'bora92', 'emir.tasli', 'atakan86', 'yetkiner.doruk', 'ruya.keseroglu', 'tokgoz.doruk', 'deronat', 'askin52', 'emel.cetiner', 'egeli.ogun', 'eadivar', 'durak.ali', 'doruk06', 'yagiz.tunceri', 'burcu.adivar', 'ozansoy.sahnur', 'yaclan', 'barlas.yalcin', 'kocabiyik.serhan', 'ruya54', 'barlas.demirel', 'ali96', 'cem.sinanoglu']
+
+Followers of eakay: ['gumuspala.sinem', 'esma94', 'wbademci', 'emre.beserler', 'ebru33', 'arican.ada', 'tuglu.yagiz', 'sinem.erbay', 'barlas59', 'burak.demirbas', 'rbabacan', 'besok.barlas', 'cetiner.sahnur', 'tutuncu.burcu', 'emirhan.erbulak', 'aykac.ece', 'ydizdar', 'gurmen.ece', 'mbolatli', 'akman.burcu', 'sinem.erez', 'matakol', 'demirbas.irem', 'ptugluk', 'eronat.umran', 'qagaoglu', 'erdogan.esma', 'nkarabulut', 'skaplangi', 'burcu31', 'efe.akgul', 'rduygulu', 'ogun78', 'basoglu.burak', 'xsamanci', 'umran04', 'koray.tazegul', 'topcuoglu.barlas', 'mnalbantoglu', 'idalkiran', 'orge.doruk', 'bfahri', 'ada.fahri', 'aalyanak', 'cduygulu', 'dbabaoglu', 'ece.ertepinar', 'baturalp.cagan', 'bartu.alpugan', 'oaksit', 'sandalci.ege', 'sinem.dalkiran', 'nkuday', 'ece.ercetin', 'dalkiran.esma', 'babaoglu.yagiz', 'sinem66', 'camdali.kagan', 'sinem.aclan', 'sandalci.ruya', 'berk97', 'irem49', 'polat.duygulu', 'mert.erturk', 'fyetkiner', 'babacan.umran', 'irem.sozeri', 'zarican', 'fkocabiyik', 'emel22', 'nebioglu.ege', 'ruya40', 'koray.capanoglu', 'ada65', 'guca', 'burcu.sozeri', 'ybaturalp', 'rkuzucu', 'ukocyigit', 'umran06', 'rokur', 'kagan.alpugan', 'gonultas.ruya', 'emre.kececi', 'ada09', 'scorekci', 'ozbir.kagan', 'tugluk.ege', 'ege15', 'sinem.aybar', 'tokatlioglu.cihan', 'ebru89', 'koray.keseroglu', 'utku44', 'esma.demirbas', 'ada21', 'ece.aclan', 'burcu.erberk', 'ferid.koyuncu', 'ogun.ilicali', 'esma.erez', 'msarioglu', 'yalcin.alp', 'kagan23', 'utku37', 'doruk.kuzucu', 'vbalci', 'turker.tekand', 'okur.esma', 'sinem.kececi', 'pkilicci', 'cakal', 'kasapoglu.ebru', 'yagiz.koyluoglu', 'ppekkan', 'cozkok', 'arslanoglu.ada', 'umran42', 'catan', 'mkasapoglu', 'zturkyilmaz', 'meric.atan', 'berke22', 'onur.elciboga', 'cbademci', 'sahnur.cetiner', 'baturalp.kutay', 'utku02', 'ykoc', 'igunday', 'irem17', 'dogan.ada', 'ferid89', 'barlas.okur', 'akar.bora', 'mtekelioglu', 'ryildizoglu', 'sinem57', 'keseroglu.tuna', 'ali53', 'eoraloglu', 'ada.akyuz', 'adan.kagan', 'tkoybasi', 'polat50', 'esma32', 'ruya.erbay', 'kutay.abaci', 'uluhan.emel', 'ysozeri', 'koyuncu.ada', 'pozberk', 'koyluoglu.mert', 'mbasoglu', 'atazegul', 'rtopaloglu', 'oymen.ada', 'pdemirel', 'bora01', 'onur66', 'kutay13', 'demirel.serhan', 'umran.eronat', 'zbesok', 'nozkok', 'uadan', 'derin90', 'mpolat', 'bpaksut', 'fkaradas', 'mayhos.umran', 'ece78', 'gdizdar', 'bora.kocyigit', 'berke20', 'deniz72', 'esma53', 'zcagiran', 'cihan59', 'qozbir', 'sbeserler', 'yazici.esma', 'ferid.aclan', 'cagan.uluhan', 'jtunaboylu', 'askin.solmaz', 'erbulak.yigit', 'demirbas.daghan', 'korol.cem', 'bademci.emel', 'emel.numanoglu', 'akisik.sarp', 'kocoglu.ogun', 'kocyigit.umran', 'ahmet88', 'irem.babaoglu', 'ydagdas', 'xpaksut', 'toprak.nebioglu', 'oaydan', 'rkoyluoglu', 'dkarabocek', 'emel.kunt', 'erdogan.sahnur', 'toprak.duygulu', 'uoymen', 'ruzgar.oztuna', 'kunter.ali', 'cagan08', 'burcu.cagiran', 'ozgorkey.emirhan', 'iayaydin', 'ekici.ebru', 'cagan07', 'babacan.emel', 'ebru.agaoglu', 'ukocabiyik', 'serhan08', 'emel25', 'ece.pektemek', 'sadiklar.berk', 'ldusenkalkar', 'bartu44', 'derin25', 'tuna64', 'ruzgar.kormukcu', 'npekkan', 'utku.eksioglu', 'tugluk.emel', 'feronat', 'abaci.ada', 'avan.onur', 'kunter.doruk', 'agaoglu.ece', 'mertoglu.ruya', 'velioglu.sahnur', 'ferid.ayverdi', 'sadiklar.atakan', 'ahmet.elciboga', 'emirhan52', 'cagan.kucukler', 'karaer.ece', 'agaoglu.sahnur', 'balci.derin', 'ruzgar98', 'berkay39', 'baran.erginsoy', 'kilicci.sahnur', 'tunceri.emel', 'ozdogan.cihan', 'burcu64', 'zorbay', 'esepetci', 'yagiz19', 'umran25', 'kocyigit.efe', 'emel.balaban', 'ktuglu', 'gunday.derin', 'armagan02', 'akgul.deniz', 'esma.cagiran', 'camdali.cagan', 'ali39', 'baran.yildirim', 'armagan29']
+
+burcu06 ve eakay kullanýcýlarýnýn ortak takipçileri:
+Bu iki kullanýcý için ortak takipçi bulunmamaktadýr.
+
+Takipçi benzerlik yüzdesi= %0.000
+
+Followings of burcu06: ['kerem.solmaz', 'tekand.ruya', 'samanci.burcu', 'umran.durak', 'kerem.pocan', 'baksit', 'canberk.yorulmaz', 'armagan70', 'erdogan.esma', 'cinar.kunter', 'bakircioglu.ege', 'canberk.yazici', 'ada85', 'kutay.sozeri', 'ada29', 'cem67', 'toraman.irem', 'nebioglu.ece', 'alp.uca', 'sahnur.turkdogan', 'atan.mert', 'tutuncu.kutay', 'tsamanci', 'hdemirbas', 'jozdenak', 'emel.eronat', 'snalbantoglu', 'omayhos', 'ada44', 'ubabacan', 'sahnur41', 'yigit80', 'terdogan', 'hkasapoglu', 'sinem.denkel', 'aydan.kutay', 'abalci', 'tazegul.turker', 'tekand.ege', 'qbicer', 'cinar.alpugan', 'pkaya', 'umran13', 'ece59', 'ege.demirel', 'barlas.okur', 'otoraman', 'burcu.kaya', 'irem05', 'alp.alniacik', 'erkekli.ada', 'irem63', 'atakan.tugluk', 'burcu01', 'pozberk', 'ece34', 'emel.tahincioglu', 'rozkok', 'yigit06', 'ece.okur', 'emre.kavaklioglu', 'derin.tekelioglu', 'vkaraer', 'sarp.paksut', 'erturk.sinem', 'skorol', 'barlas.kaplangi', 'cevik.derin', 'yesilkaya.yigit', 'okur.ada', 'ebru.cetiner', 'sinem.karabocek', 'doruk34', 'yayaydin', 'efe.dogan', 'ozgorkey.emre', 'bartu.kurutluoglu', 'yesilkaya.cinar', 'ozansoy.sahnur', 'irem.sepetci', 'abadan.gorkem', 'turkyilmaz.tuna', 'dkurutluoglu', 'doruk.gurmen', 'ntutuncu', 'skunt', 'ada.numanoglu', 'askin18', 'irem48', 'ece44']
+
+Followings of eakay: ['gumuspala.sinem', 'esma94', 'wbademci', 'emre.beserler', 'ebru33', 'arican.ada', 'tuglu.yagiz', 'sinem.erbay', 'barlas59', 'burak.demirbas', 'rbabacan', 'besok.barlas', 'cetiner.sahnur', 'tutuncu.burcu', 'emirhan.erbulak', 'aykac.ece', 'ydizdar', 'gurmen.ece', 'mbolatli', 'akman.burcu', 'sinem.erez', 'matakol', 'demirbas.irem', 'ptugluk', 'eronat.umran', 'qagaoglu', 'erdogan.esma', 'nkarabulut', 'skaplangi', 'burcu31', 'efe.akgul', 'rduygulu', 'ogun78', 'basoglu.burak', 'xsamanci', 'umran04', 'koray.tazegul', 'topcuoglu.barlas', 'mnalbantoglu', 'idalkiran', 'orge.doruk', 'bfahri', 'ada.fahri', 'aalyanak', 'cduygulu', 'dbabaoglu', 'ece.ertepinar', 'baturalp.cagan', 'bartu.alpugan', 'oaksit', 'sandalci.ege', 'sinem.dalkiran', 'nkuday', 'ece.ercetin', 'dalkiran.esma', 'babaoglu.yagiz', 'sinem66', 'camdali.kagan', 'sinem.aclan', 'sandalci.ruya', 'berk97', 'irem49', 'polat.duygulu', 'mert.erturk', 'fyetkiner', 'babacan.umran', 'irem.sozeri', 'zarican', 'fkocabiyik', 'emel22', 'nebioglu.ege', 'ruya40', 'koray.capanoglu', 'ada65', 'guca', 'burcu.sozeri', 'ybaturalp', 'rkuzucu', 'ukocyigit', 'umran06', 'rokur', 'kagan.alpugan', 'gonultas.ruya', 'emre.kececi', 'ada09', 'scorekci', 'ozbir.kagan', 'tugluk.ege', 'ege15', 'sinem.aybar', 'tokatlioglu.cihan', 'ebru89', 'koray.keseroglu', 'utku44', 'esma.demirbas', 'ada21', 'ece.aclan', 'burcu.erberk', 'ferid.koyuncu', 'ogun.ilicali', 'esma.erez', 'msarioglu', 'yalcin.alp', 'kagan23', 'utku37', 'doruk.kuzucu', 'vbalci', 'turker.tekand', 'okur.esma', 'sinem.kececi', 'pkilicci', 'cakal', 'kasapoglu.ebru', 'yagiz.koyluoglu', 'ppekkan', 'cozkok', 'arslanoglu.ada', 'umran42', 'catan', 'mkasapoglu', 'zturkyilmaz', 'meric.atan', 'berke22', 'onur.elciboga', 'cbademci', 'sahnur.cetiner', 'baturalp.kutay', 'utku02', 'ykoc', 'igunday', 'irem17', 'dogan.ada', 'ferid89', 'barlas.okur', 'akar.bora', 'mtekelioglu', 'ryildizoglu', 'sinem57', 'keseroglu.tuna', 'ali53', 'eoraloglu', 'ada.akyuz', 'adan.kagan', 'tkoybasi', 'polat50', 'esma32', 'ruya.erbay', 'kutay.abaci', 'uluhan.emel', 'ysozeri', 'koyuncu.ada', 'pozberk', 'koyluoglu.mert', 'mbasoglu', 'atazegul', 'rtopaloglu', 'oymen.ada', 'pdemirel', 'bora01', 'onur66', 'kutay13', 'demirel.serhan', 'umran.eronat', 'zbesok', 'nozkok', 'uadan', 'derin90', 'mpolat', 'bpaksut', 'fkaradas', 'mayhos.umran', 'ece78', 'gdizdar', 'bora.kocyigit', 'berke20', 'deniz72', 'esma53', 'zcagiran', 'cihan59', 'qozbir', 'sbeserler', 'yazici.esma', 'ferid.aclan', 'cagan.uluhan', 'jtunaboylu', 'askin.solmaz', 'erbulak.yigit', 'demirbas.daghan', 'korol.cem', 'bademci.emel', 'emel.numanoglu', 'akisik.sarp', 'kocoglu.ogun', 'kocyigit.umran', 'ahmet88', 'irem.babaoglu', 'ydagdas', 'xpaksut', 'toprak.nebioglu', 'oaydan', 'rkoyluoglu', 'dkarabocek', 'emel.kunt', 'erdogan.sahnur', 'toprak.duygulu', 'uoymen', 'ruzgar.oztuna', 'kunter.ali', 'cagan08', 'burcu.cagiran', 'ozgorkey.emirhan', 'iayaydin', 'ekici.ebru', 'cagan07', 'babacan.emel', 'ebru.agaoglu', 'ukocabiyik', 'serhan08', 'emel25', 'ece.pektemek', 'sadiklar.berk', 'ldusenkalkar', 'bartu44', 'derin25', 'tuna64', 'ruzgar.kormukcu', 'npekkan', 'utku.eksioglu', 'tugluk.emel', 'feronat', 'abaci.ada', 'avan.onur', 'kunter.doruk', 'agaoglu.ece', 'mertoglu.ruya', 'velioglu.sahnur', 'ferid.ayverdi', 'sadiklar.atakan', 'ahmet.elciboga', 'emirhan52', 'cagan.kucukler', 'karaer.ece', 'agaoglu.sahnur', 'balci.derin', 'ruzgar98', 'berkay39', 'baran.erginsoy', 'kilicci.sahnur', 'tunceri.emel', 'ozdogan.cihan', 'burcu64', 'zorbay', 'esepetci', 'yagiz19', 'umran25', 'kocyigit.efe', 'emel.balaban', 'ktuglu', 'gunday.derin', 'armagan02', 'akgul.deniz', 'esma.cagiran', 'camdali.cagan', 'ali39', 'baran.yildirim', 'armagan29']
+
+burcu06 ve eakay kullanýcýlarýnýn ortak takip ettikleri:
+kutay.sozeri
+ebru.cetiner
+tutuncu.kutay
+ece34
+efe.dogan
+
+Takip benzerlik yüzdesi= %5.556
+
+Top nouns for LS region:
+tür: 3
+yýl: 3
+hayat: 3
+yer: 2
+gün: 2
+iç: 2
+birbir: 2
+su: 2
+var: 2
+ara: 2
+kullanýl: 2
+kon: 2
+yazý: 2
+tarih: 2
+ad: 2
+al: 2
+kar: 1
+duvar: 1
+açýklýk: 1
+olabilir: 1
+
+Top nouns for yi language:
+devlet: 3
+iç: 3
+savaþ: 3
+yaþadýk: 2
+alp: 2
+ya: 2
+görev: 2
+tür: 2
+gün: 2
+tarih: 2
+dil: 2
+hal: 2
+blok: 2
+olduk: 2
+edil: 2
+eser: 2
+kitap: 2
+ay: 2
+döne: 1
+akademik: 1
